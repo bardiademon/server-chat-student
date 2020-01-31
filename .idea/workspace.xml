@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="936325e5-e95d-467f-a4ba-bc4830381561" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X9kNx8NqdSqIaRro65ihXZhunJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/commons-io-2.6.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15126677" />
+    <property name="project.structure.side.proportion" value="0.18097644" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.VCS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programming\project\java\ServerChatStudent" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Programming\project\java\ServerChatStudent" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.bardiademon.TestTime.Main" />
+      <module name="ServerChatStudent" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bardiademon.TestTime.TestClient" />
+      <module name="ServerChatStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bardiademon.TestTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClientChat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bardiademon.TestTime.TestClientChat" />
+      <module name="ServerChatStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bardiademon.TestTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClientChat2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.bardiademon.TestTime.TestClientChat" />
+      <module name="ServerChatStudent" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestClientChat2" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestClient" />
+      <item itemvalue="Application.TestClientChat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestClientChat" />
+        <item itemvalue="Application.TestClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="936325e5-e95d-467f-a4ba-bc4830381561" name="Default Changelist" comment="" />
+      <created>1580465661060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580465661060</updated>
+      <workItem from="1580465668543" duration="25212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="46" width="1179" height="709" key="#Project_Structure" timestamp="1580468605562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="95" y="46" width="1179" height="709" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1580468605562" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580488888024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580488888024" />
+    <state x="570" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1580483035463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580483035463" />
+    <state x="271" y="143" key="FileChooserDialogImpl" timestamp="1580468603612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="271" y="143" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580468603612" />
+    <state width="1495" height="208" key="GridCell.Tab.0.bottom" timestamp="1580500562084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580500562084" />
+    <state width="1495" height="208" key="GridCell.Tab.0.center" timestamp="1580500562083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580500562083" />
+    <state width="1495" height="208" key="GridCell.Tab.0.left" timestamp="1580500562083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580500562083" />
+    <state width="1495" height="208" key="GridCell.Tab.0.right" timestamp="1580500562083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580500562083" />
+    <state x="300" y="56" key="SettingsEditor" timestamp="1580471475433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="300" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580471475433" />
+    <state x="310" y="296" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580467946476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="310" y="296" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1580467946476" />
+    <state x="499" y="179" key="extract.method.dialog" timestamp="1580488747594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="179" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1580488747594" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ServerChatStudent$TestClientChat.ic" NAME="TestClientChat Coverage Results" MODIFIED="1580486666225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bardiademon.TestTime.*</FILTER>
+    </SUITE>
+  </component>
+</project>
